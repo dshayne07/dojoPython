@@ -52,6 +52,7 @@ body{
 #searchBox{
     height:30px;
     font-size:12px;
+    width:120px;
     color:#000000;
     text-align:center;
     border-top-style: solid;
